@@ -16,6 +16,24 @@
       "location": "Werchter",
       "date": "July 04 2021",
       "time": "09:00"
+    },
+    {
+      "id":3,
+      "category":"concert",
+      "title": "Graspop",
+      "description": "Festival Rock",
+      "location": "Hasselt",
+      "date": "July 09 2021",
+      "time": "09:00"
+    },
+    {
+      "id":4,
+      "category":"concert",
+      "title": "Woohah",
+      "description": " hiphop festival",
+      "location": "Beekse Bergen",
+      "date": "July 04 2021",
+      "time": "09:00"
     }
   ]
 }
